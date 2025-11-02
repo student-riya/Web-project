@@ -129,6 +129,3 @@ Riya Mondal
 riyamondalkolkataindia@gmail.com
 🌐 GitHub Profile
 
-[Your Name]
-📧 your.email@example.com
-🌐 GitHub Profile
